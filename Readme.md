@@ -12,3 +12,8 @@ Directory Structure
 -> Middlewares
 -> Utils  
 ->More (Depends)
+
+
+#Day2 
+khudka server yand api
+CORS error ko sahi krna
