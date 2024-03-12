@@ -138,3 +138,7 @@ Code --->https://stackblitz.com/edit/stackblitz-starters-wmxq42?file=pages%2Fmod
 
 #Day 5 
 Backend connection ,utils ,middleware ,express ,dotenv ,error
+
+
+#Day 6
+USER & Video model with hooks
