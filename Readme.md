@@ -142,3 +142,7 @@ Backend connection ,utils ,middleware ,express ,dotenv ,error
 
 #Day 6
 USER & Video model with hooks
+
+#Day 7
+Upload file
+---> multer , file upload ,cloudinary
