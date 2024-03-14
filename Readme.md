@@ -146,3 +146,20 @@ USER & Video model with hooks
 #Day 7
 Upload file
 ---> multer , file upload ,cloudinary
+
+#Day 8 
+--> HTTP
+URl , URI ,URN
+-->http headers ==> metadata -> key value sent along with req & res
+most common header -----> accept ,user -agent ,authorization , content -type ,cookie , cache -control
+
+hhtp method <--->
+hhtp method <---> post , get , put , delete , patch , options , head
+
+HTTP status code 
+1xx --> informational
+2xx --> success
+3xx --> Redirection
+4xx --> Client Error
+5xx --> Server Error
+
