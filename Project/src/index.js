@@ -9,7 +9,7 @@ import { app } from "../src/app.js";
 
 
 dotenv.config({
-    path : './env'
+    path : './.env'
 })
 connectDB()
 .then(() =>{

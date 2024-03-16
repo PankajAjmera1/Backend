@@ -166,3 +166,7 @@ HTTP status code
 #Day 9
 <!-- logic for user -->
 middleware --> jate hue mijhse milte jana
+
+#Day10
+<!--  Resolving Error of user registration-->
+
