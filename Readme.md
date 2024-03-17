@@ -170,3 +170,7 @@ middleware --> jate hue mijhse milte jana
 #Day10
 <!--  Resolving Error of user registration-->
 
+#Day11
+<!-- Access Referesh Token ,Middlewaes & cookies -->
+
+Access -> Short Lived & Refresh Token --> Long Live
