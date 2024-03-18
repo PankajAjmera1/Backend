@@ -174,3 +174,6 @@ middleware --> jate hue mijhse milte jana
 <!-- Access Referesh Token ,Middlewaes & cookies -->
 
 Access -> Short Lived & Refresh Token --> Long Live
+
+#Day12
+<!-- Access and refresh  -->
