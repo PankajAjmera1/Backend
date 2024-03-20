@@ -184,3 +184,13 @@ Access -> Short Lived & Refresh Token --> Long Live
 <!-- get current user -->
 <!-- getCUrrentUser -->
 
+
+#Day 14
+<!-- subscription model why ? -->
+<!-- har bar ek document banega -->
+Subscriber kitne hai --> CHANNEL
+
+<!-- aggregation  pipeline -->
+-->$lookup
+-->$addFields
+
