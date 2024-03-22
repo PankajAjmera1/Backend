@@ -196,3 +196,7 @@ Subscriber kitne hai --> CHANNEL
 
 #Day 15
 <!-- error on clodinary -->
+
+#Day 16
+<!-- watch history ,owner ==> joins ==> nested lookup  -->
+<!-- subpipline -->
