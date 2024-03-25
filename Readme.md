@@ -206,3 +206,6 @@ Subscriber kitne hai --> CHANNEL
 
 #Day 18
 <!-- Revision  -->
+
+#Day 19
+<!-- MongoDB models like, comments ,playlists & tweet -->
