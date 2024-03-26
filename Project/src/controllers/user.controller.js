@@ -149,7 +149,7 @@ const loginUser =asyncHandler(async(req,res) =>{
  }
 
  return res.status(200).cookie("accessTOken " ,accessToken ,options)
- .cookiew("refreshTOken" ,refrshToken ,options)
+ .cookiew("refreshTOken" ,refreshToken ,options)
  .json(
     new ApiResponse(
         200,
