@@ -220,3 +220,6 @@ Subscriber kitne hai --> CHANNEL
 <!-- Assignment Given in the course -->
 #Day 23
 <!-- Start working assignment -->
+
+#Day 24
+<!-- Assignment Planning -->
