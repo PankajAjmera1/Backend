@@ -226,3 +226,6 @@ Subscriber kitne hai --> CHANNEL
 
 #Day 25
 <!-- Assignment Doing & Thinking  -->
+
+#Day 26
+Playlist controllers
