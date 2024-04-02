@@ -229,3 +229,6 @@ Subscriber kitne hai --> CHANNEL
 
 #Day 26
 Playlist controllers
+
+#Day 27
+Playlist Controller thinking
