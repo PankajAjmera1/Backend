@@ -232,3 +232,6 @@ Playlist controllers
 
 #Day 27
 Playlist Controller thinking
+
+#Day 28 
+Video Controller Thinking

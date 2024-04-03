@@ -8,8 +8,16 @@ import {uploadOnCloudinary} from "../utils/cloudinary.js"
 
 
 const getAllVideos = asyncHandler(async (req, res) => {
-    const { page = 1, limit = 10, query, sortBy, sortType, userId } = req.query
     //TODO: get all videos based on query, sort, pagination
+    const { page = 1, limit = 10, query, sortBy, sortType, userId } = req.query
+    page =isNaN(page) ? 1:Number(page);
+    limit = isNaN(limit) ? 10:Number(limit);
+    if(page < 1) page = 1;
+    if(limit < 1) limit = 10;
+    const matchStage = {};
+    if(userId && isValidObjectId(userId)){
+    
+    }
    
 
    
