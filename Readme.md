@@ -238,3 +238,6 @@ Video Controller Thinking
 
 #Day29
 Project Assignment
+
+#Day 30
+Assignment karne hai khud + frontend bhi krna hai
